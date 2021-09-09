@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lista_pokemon_live/static/css/main.83cfed98.chunk.css",
-    "main.js": "/lista_pokemon_live/static/js/main.09cda6a8.chunk.js",
-    "main.js.map": "/lista_pokemon_live/static/js/main.09cda6a8.chunk.js.map",
+    "main.js": "/lista_pokemon_live/static/js/main.4cfc678e.chunk.js",
+    "main.js.map": "/lista_pokemon_live/static/js/main.4cfc678e.chunk.js.map",
     "runtime-main.js": "/lista_pokemon_live/static/js/runtime-main.0f60a9d7.js",
     "runtime-main.js.map": "/lista_pokemon_live/static/js/runtime-main.0f60a9d7.js.map",
     "static/css/2.818011ed.chunk.css": "/lista_pokemon_live/static/css/2.818011ed.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.d4dba62b.chunk.js",
     "static/css/main.83cfed98.chunk.css",
-    "static/js/main.09cda6a8.chunk.js"
+    "static/js/main.4cfc678e.chunk.js"
   ]
 }
